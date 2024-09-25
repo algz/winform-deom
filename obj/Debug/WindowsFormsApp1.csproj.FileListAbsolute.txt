@@ -7,3 +7,4 @@ D:\Repos\winform-deom\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
 D:\Repos\winform-deom\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
 D:\Repos\winform-deom\obj\Debug\WindowsFormsApp1.exe
 D:\Repos\winform-deom\obj\Debug\WindowsFormsApp1.pdb
+D:\Repos\winform-deom\obj\Debug\WindowsFormsApp1.Form11.resources

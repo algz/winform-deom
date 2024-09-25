@@ -1,0 +1,9 @@
+D:\Repos\winform-deom\bin\Debug\WindowsFormsApp1.exe.config
+D:\Repos\winform-deom\bin\Debug\WindowsFormsApp1.exe
+D:\Repos\winform-deom\bin\Debug\WindowsFormsApp1.pdb
+D:\Repos\winform-deom\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\Repos\winform-deom\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Repos\winform-deom\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Repos\winform-deom\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Repos\winform-deom\obj\Debug\WindowsFormsApp1.exe
+D:\Repos\winform-deom\obj\Debug\WindowsFormsApp1.pdb
